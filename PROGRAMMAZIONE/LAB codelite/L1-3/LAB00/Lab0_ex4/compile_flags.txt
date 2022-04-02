@@ -1,0 +1,10 @@
+-IC:\Program
+-IC:\Users\rfran\Desktop\POLI 2 ANNO\APA\PROGRAMMAZIONE\LAB codelite\LAB00\Lab0_ex4
+-IC:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include\c++
+-IC:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include\c++\mingw32
+-IC:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include\c++\backward
+-IC:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include
+-IC:\Program Files (x86)\CodeBlocks\MinGW\include
+-IC:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include-fixed
+-target
+i686-pc-windows-gnu

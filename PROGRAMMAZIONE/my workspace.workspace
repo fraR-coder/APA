@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="my workspace" Database="" Version="10000">
+  <Project Name="prova" Path="prova - Copia/prova.project" Active="No"/>
+  <Project Name="E1" Path="esame/E1/E1.project" Active="No"/>
+  <Project Name="E2" Path="esame/E2/E2.project" Active="No"/>
+  <Project Name="E3" Path="esame/E3/E3.project" Active="No"/>
+  <Project Name="voti_esami" Path="voti_esami/voti_esami.project" Active="Yes"/>
+  <Project Name="Lab00_ex2" Path="LAB codelite/L1-3/LAB00/Lab00_ex2/Lab00_ex2.project" Active="No"/>
+  <Project Name="lab10_ex3" Path="LAB codelite/L8-10/L10/lab10_ex3/lab10_ex3.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="E1" ConfigName="Debug"/>
+      <Project Name="E2" ConfigName="Debug"/>
+      <Project Name="E3" ConfigName="Debug"/>
+      <Project Name="Lab00_ex2" ConfigName="Debug"/>
+      <Project Name="lab10_ex3" ConfigName="Debug"/>
+      <Project Name="prova" ConfigName="Debug"/>
+      <Project Name="voti_esami" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="test1" ConfigName="Release"/>
+      <Project Name="test2" ConfigName="Release"/>
+      <Project Name="Lab00_ex2" ConfigName="Release"/>
+      <Project Name="Lab00_ex2" ConfigName="Release"/>
+      <Project Name="Lab00_ex3" ConfigName="Release"/>
+      <Project Name="Lab0_ex4" ConfigName="Release"/>
+      <Project Name="Lab0_ex4" ConfigName="Release"/>
+      <Project Name="Lab1_ex1" ConfigName="Release"/>
+      <Project Name="Lab1_ex2" ConfigName="Release"/>
+      <Project Name="Lab1_ex2" ConfigName="Release"/>
+      <Project Name="Lab0_ex1" ConfigName="Release"/>
+      <Project Name="Lab1_ex3" ConfigName="Release"/>
+      <Project Name="Lab2_ex1" ConfigName="Release"/>
+      <Project Name="Lab2_ex3" ConfigName="Release"/>
+      <Project Name="Lab2_ex2" ConfigName="Release"/>
+      <Project Name="Lab2_ex2" ConfigName="Release"/>
+      <Project Name="Lab3_ex1" ConfigName="Release"/>
+      <Project Name="Lab3_ex2" ConfigName="Release"/>
+      <Project Name="Lab2_ex4" ConfigName="Release"/>
+      <Project Name="Lab4_ex1" ConfigName="Release"/>
+      <Project Name="Lab4_ex1" ConfigName="Debug"/>
+      <Project Name="Lab7_ex1" ConfigName="Release"/>
+      <Project Name="Lab7_ex2" ConfigName="Release"/>
+      <Project Name="Lab8_ex1" ConfigName="Release"/>
+      <Project Name="Lab8_ex2" ConfigName="Release"/>
+      <Project Name="Lab8_ex3" ConfigName="Release"/>
+      <Project Name="Lab9_ex1" ConfigName="Release"/>
+      <Project Name="lab9_ex2" ConfigName="Release"/>
+      <Project Name="lab9_ex3" ConfigName="Release"/>
+      <Project Name="lab10_ex3" ConfigName="Release"/>
+      <Project Name="lab10_ex2" ConfigName="Release"/>
+      <Project Name="lab10_ex1" ConfigName="Release"/>
+      <Project Name="Lab11_ex3" ConfigName="Release"/>
+      <Project Name="voti_esame" ConfigName="Release"/>
+      <Project Name="prova" ConfigName="Release"/>
+      <Project Name="L11_EX1" ConfigName="Release"/>
+      <Project Name="L11_ex2" ConfigName="Release"/>
+      <Project Name="L12_ex1" ConfigName="Release"/>
+      <Project Name="L13" ConfigName="Release"/>
+      <Project Name="E1" ConfigName="Release"/>
+      <Project Name="E2" ConfigName="Release"/>
+      <Project Name="E3" ConfigName="Release"/>
+      <Project Name="voti_esami" ConfigName="Release"/>
+      <Project Name="Lab00_ex2" ConfigName="Release"/>
+      <Project Name="lab10_ex3" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

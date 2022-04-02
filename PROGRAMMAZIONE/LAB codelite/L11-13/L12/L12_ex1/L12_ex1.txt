@@ -1,0 +1,1 @@
+Debug/main.c.o Debug/titoli.c.o Debug/data.c.o Debug/quotazioni.c.o   

@@ -1,0 +1,1 @@
+Debug/main.c.o Debug/grafo.c.o Debug/tabella_di_simboli.c.o   

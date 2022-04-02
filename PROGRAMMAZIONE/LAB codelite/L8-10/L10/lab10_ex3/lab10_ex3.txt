@@ -1,0 +1,1 @@
+Debug/pgList.c.o Debug/inv.c.o Debug/main.c.o Debug/pg.c.o Debug/invArray.c.o Debug/equipArray.c.o   

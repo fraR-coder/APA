@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="C:\Users\rfran\Desktop\POLI 2 ANNO\APA\PROGRAMMAZIONE\LAB codelite\L04\Lab4_ex1\Lab4--6.workspace">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="C:\Users\rfran\Desktop\POLI 2 ANNO\APA\PROGRAMMAZIONE\LAB codelite\L04\Lab4_ex1\Lab4--6.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray"/>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>

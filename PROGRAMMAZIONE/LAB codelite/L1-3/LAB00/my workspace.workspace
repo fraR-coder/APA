@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="my workspace" Database="" Version="10000">
+  <Project Name="Lab00_ex3" Path="Lab00_ex3/Lab00_ex3.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="test1" ConfigName="Debug"/>
+      <Project Name="test2" ConfigName="Debug"/>
+      <Project Name="Lab00_ex2" ConfigName="Debug"/>
+      <Project Name="Lab00_ex2" ConfigName="Debug"/>
+      <Project Name="Lab00_ex3" ConfigName="Debug"/>
+      <Project Name="Lab00_ex3" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="test1" ConfigName="Release"/>
+      <Project Name="test2" ConfigName="Release"/>
+      <Project Name="Lab00_ex2" ConfigName="Release"/>
+      <Project Name="Lab00_ex2" ConfigName="Release"/>
+      <Project Name="Lab00_ex3" ConfigName="Release"/>
+      <Project Name="Lab00_ex3" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
